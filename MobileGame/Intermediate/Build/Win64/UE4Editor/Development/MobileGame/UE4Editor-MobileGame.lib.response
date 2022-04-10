@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MobileGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\micha\OneDrive\Documents\Unreal Projects\MobileGame\MobileGame\Intermediate\Build\Win64\MobileGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\micha\OneDrive\Documents\Unreal Projects\MobileGame\MobileGame\Intermediate\Build\Win64\UE4Editor\Development\MobileGame\MobileGame.cpp.obj"
+"C:\Users\micha\OneDrive\Documents\Unreal Projects\MobileGame\MobileGame\Intermediate\Build\Win64\UE4Editor\Development\MobileGame\MobileGameGameModeBase.cpp.obj"
+"C:\Users\micha\OneDrive\Documents\Unreal Projects\MobileGame\MobileGame\Intermediate\Build\Win64\UE4Editor\Development\MobileGame\MobileGame.init.gen.cpp.obj"
+"C:\Users\micha\OneDrive\Documents\Unreal Projects\MobileGame\MobileGame\Intermediate\Build\Win64\UE4Editor\Development\MobileGame\MobileGameGameModeBase.gen.cpp.obj"
+"C:\Users\micha\OneDrive\Documents\Unreal Projects\MobileGame\MobileGame\Intermediate\Build\Win64\UE4Editor\Development\MobileGame\Default.rc2.res"
+/OUT:"C:\Users\micha\OneDrive\Documents\Unreal Projects\MobileGame\MobileGame\Intermediate\Build\Win64\UE4Editor\Development\MobileGame\UE4Editor-MobileGame.lib"

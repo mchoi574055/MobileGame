@@ -1,0 +1,2 @@
+C:\Users\micha\OneDrive\Documents\Unreal Projects\MobileGame\MobileGame\Intermediate\Build\Win64\UE4Editor\Development\MobileGame\Definitions.MobileGame.h
+C:\Users\micha\OneDrive\Documents\Unreal Projects\MobileGame\MobileGame\Source\MobileGame\MobileGame.h

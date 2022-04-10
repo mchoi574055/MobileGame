@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MobileGame",
+			"Path": "C:\\Users\\micha\\OneDrive\\Documents\\Unreal Projects\\MobileGame\\MobileGame\\Source\\MobileGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MobileGameEditor",
+			"Path": "C:\\Users\\micha\\OneDrive\\Documents\\Unreal Projects\\MobileGame\\MobileGame\\Source\\MobileGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
