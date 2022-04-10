@@ -1170,3 +1170,17 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.10-04.03.47:496][  1]LogAssetRegistry: Asset discovery search completed in 9.6773 seconds
 [2022.04.10-04.03.47:504][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000010 seconds (updated 0 objects)
 [2022.04.10-04.03.53:863][364]LogSlate: Took 0.000401 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.04.10-04.07.26:770][996]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.04.10-04.07.40:142][778]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2022.04.10-04.07.42:171][886]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.04.10-04.08.00:594][966]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.04.10-04.08.01:567][ 18]LogEditorViewport: Clicking on Actor (LMB): Character (Character)
+[2022.04.10-04.08.05:015][206]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.04.10-04.08.07:969][375]LogSlate: Took 0.000206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.04.10-04.08.08:007][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.04.10-04.08.08:031][375]LogSavePackage: Moving '../../../../../../Users/micha/OneDrive/Documents/Unreal Projects/MobileGame/MobileGame/Saved/Minimal_DefaultEDA70C4E4EE45D25741E05AE8482F4B0.tmp' to '../../../../../../Users/micha/OneDrive/Documents/Unreal Projects/MobileGame/MobileGame/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.04.10-04.08.08:119][375]LogSavePackage: Moving '../../../../../../Users/micha/OneDrive/Documents/Unreal Projects/MobileGame/MobileGame/Saved/Minimal_Default_BuiltData3EAC0A444E310F13B4CD019F3E8B6390.tmp' to '../../../../../../Users/micha/OneDrive/Documents/Unreal Projects/MobileGame/MobileGame/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2022.04.10-04.08.08:142][375]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.10-04.08.08:142][375]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2022.04.10-04.08.08:142][375]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.04.10-04.08.09:181][436]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
